@@ -1,0 +1,8 @@
+setup.py
+Entrega/Clientes.py
+Entrega/__init__.py
+Entrega/menu.py
+Entrega.egg-info/PKG-INFO
+Entrega.egg-info/SOURCES.txt
+Entrega.egg-info/dependency_links.txt
+Entrega.egg-info/top_level.txt
